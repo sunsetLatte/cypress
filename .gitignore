@@ -1,5 +1,5 @@
 .vscode/
 /node_modules/
 /downloads/
-package-lock.json
 user.js
+package-lock.json
